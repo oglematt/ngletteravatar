@@ -1,6 +1,6 @@
 {
-    "name": "eiase-ng-letter-avatar",
- 	"main": "./ngletteravatar.js",
+	"name": "eiase-ng-letter-avatar",
+	"main": "./ngletteravatar.js",
 	"version": "4.0.1",
 	"keywords": [
 		"angular",
@@ -10,11 +10,11 @@
 		"letterimage"
 	],
 	"ignore": [
-        "demo",
-        "app.js",
-        "index.html"
-    ],
-	  "dependencies": {
+		"demo",
+		"app.js",
+		"index.html"
+	],
+	"dependencies": {
 		"angular": "*"
-	  }
+	}
 }
